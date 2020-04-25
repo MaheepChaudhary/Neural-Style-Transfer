@@ -1,8 +1,11 @@
 # Neural Style Transfer
 
 This project focus on making the painting of the picture with help of another style image using Neural Style Transfer, some images as on which it is applied are shown below:-
+
 !["winter-wolf"](wolf-winter.png)
+
 !["moon-lake"](moon-lake.PNG)
+
 ## Introduction
 The content and style images will be fed into neural network and their features are extracted then the difference between the generated image,style image and generated image,content image are summed to produce total loss which is then optimized. The generated image features are adjusted according to the total loss.
 
