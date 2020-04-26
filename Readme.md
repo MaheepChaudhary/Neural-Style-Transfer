@@ -6,6 +6,13 @@ This project focus on making the painting of the picture with help of another st
 
 !["moon-lake"](moon-lake.PNG)
 
+## Table of Contents
+
+* Introduction
+* Technologies
+* Launch
+* Inspiration
+  
 ## Introduction
 The content and style images will be fed into neural network and their features are extracted then the difference between the generated image,style image and generated image,content image are summed to produce total loss which is then optimized. The generated image features are adjusted according to the total loss.
 
